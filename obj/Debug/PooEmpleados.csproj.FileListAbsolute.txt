@@ -1,0 +1,7 @@
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\bin\Debug\PooEmpleados.exe.config
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\bin\Debug\PooEmpleados.exe
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\bin\Debug\PooEmpleados.pdb
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\obj\Debug\PooEmpleados.csproj.AssemblyReference.cache
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\obj\Debug\PooEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\obj\Debug\PooEmpleados.exe
+C:\Users\fede_\source\repos\PooEmpleados\PooEmpleados\obj\Debug\PooEmpleados.pdb
